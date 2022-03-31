@@ -17,4 +17,12 @@ U|  _  |u| |_| | |  _ <   | |___  | |___        /| |\     | |   \| |/__
 
 ## iOS Concurrency
 
-- [GCD/Operation에 앞서 간단한 정리 - 동기/비동기, 직렬/병렬](https://bit.ly/3iKk2gL)
+- [GCD/Operation에 앞서 간단한 정리 - 동기/비동기, 직렬/동시큐](https://bit.ly/3iKk2gL)
+
+
+<br>
+
+## 서버 파트에서 살아남기
+- [자바스크립트 비동기 처리와 콜백 함수](https://huree-can-do-it.notion.site/5-1-41c834725ceb4f1f966e2d909c50a271)
+- [자바스크립트 Promise](https://huree-can-do-it.notion.site/5-2-Promise-89133888945d4ba09aae8f18058e1d6a)
+- [자바스크립트 async와 await](https://huree-can-do-it.notion.site/5-3-async-await-524ce8dda71c4fee80006453bec7418a)
