@@ -16,3 +16,4 @@
 
 #### Swift
 - [ ] [타입 프로퍼티 왜 씀?](https://roniruny.tistory.com/185)
+- [ ] [타입/인스턴스 저장/연산 프로퍼티](https://roniruny.tistory.com/186)
