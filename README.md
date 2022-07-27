@@ -12,6 +12,7 @@
 - [ ] [Copy items if needed, Move to Trash](https://roniruny.tistory.com/180)
 - [ ] [Formatted API in iOS15](https://roniruny.tistory.com/181)
 - [ ] [cell shadow + cornerRadius 같이 주는 방법](https://roniruny.tistory.com/184)
+- [ ] ['처음으로' 돌아가는 코드 | SceneDelegate에서 분기처리해주는 코드](https://roniruny.tistory.com/188)
 
 
 #### Swift
