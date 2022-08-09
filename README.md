@@ -25,6 +25,8 @@
 - [ ] [타입 프로퍼티 왜 씀?](https://roniruny.tistory.com/185)
 - [ ] [타입/인스턴스 저장/연산 프로퍼티](https://roniruny.tistory.com/186) 
 - [ ] [Class와 Struct 그리고 부스러기 개념들](https://roniruny.tistory.com/193)
+- [ ] [required init](https://roniruny.tistory.com/204)
+- [ ] [@IBInspectable, @IBDesignable](https://roniruny.tistory.com/203)
 
 
 #### WWDC
