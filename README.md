@@ -19,6 +19,8 @@
 - [ ] [DataSource, Delegate | TextView Placeholder | WebKit](https://roniruny.tistory.com/191)
 - [ ] [ReusableViewProtocol로 뷰컨/셀 식별자 사용하기](https://roniruny.tistory.com/196)
 - [ ] [Alamofire, SwiftyJSON을 사용해서 HTTP 통신하기](https://roniruny.tistory.com/198)
+- [ ] [pngData(), jpegData()](https://roniruny.tistory.com/212)
+- [ ] [UIImagePickerController](https://roniruny.tistory.com/210)
 
 
 #### Swift
@@ -39,6 +41,8 @@
 
 
 #### CS
+- [ ] [Disk Managemenet & Scheduling 1](https://roniruny.tistory.com/215)
+- [ ] [Disk Managemenet & Scheduling 2](https://roniruny.tistory.com/216)
 
 
 #### Project
