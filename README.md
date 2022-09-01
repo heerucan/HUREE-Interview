@@ -23,6 +23,10 @@
 - [ ] [pngData(), jpegData()](https://roniruny.tistory.com/212)
 - [ ] [UIImagePickerController](https://roniruny.tistory.com/210)
 - [ ] [UIPageViewController](https://roniruny.tistory.com/217)
+- [ ] [UIView 초기화 구문](https://roniruny.tistory.com/221)
+- [ ] [loadView()](https://roniruny.tistory.com/231)
+- [ ] [Realm 기본 설계, 저장하고 가져오기](https://roniruny.tistory.com/233)
+- [ ] [URLSession - 1](https://roniruny.tistory.com/245)
 
 
 #### Swift
@@ -32,6 +36,19 @@
 - [ ] [required init](https://roniruny.tistory.com/204)
 - [ ] [@IBInspectable, @IBDesignable](https://roniruny.tistory.com/203)
 - [ ] [Custom Framework 만들면서 접근제한자 공부하기](https://roniruny.tistory.com/218)
+- [ ] [Generic](https://roniruny.tistory.com/230)
+- [ ] [WMO - Swift 성능 최적화](https://roniruny.tistory.com/238)
+- [ ] [Error Handling](https://roniruny.tistory.com/240)
+- [ ] [Codable](https://roniruny.tistory.com/243)
+
+
+#### 디자인 패턴 및 아키텍처
+- [ ] [MVVM 입문](https://roniruny.tistory.com/246) 
+
+
+#### Concurrency
+- [ ] [GCD 종류와 특성, serial/concurrency, sync/async](https://roniruny.tistory.com/220)
+- [ ] [weak self](https://roniruny.tistory.com/224?category=1063348)
 
 
 #### WWDC
@@ -43,10 +60,19 @@
 - [ ] [REST API 6원칙](https://roniruny.tistory.com/195)
 
 
-#### CS
+#### 운영체제
 - [ ] [Disk Managemenet & Scheduling 1](https://roniruny.tistory.com/215)
 - [ ] [Disk Managemenet & Scheduling 2](https://roniruny.tistory.com/216)
+- [ ] [1. 운영체제와 컴퓨터, 인터럽트, 시스템콜과 modebit](https://roniruny.tistory.com/226)
+- [ ] [2. 메모리계층, 가상메모리, 스와핑, 페이지폴트, 스레싱](https://roniruny.tistory.com/227?category=1034003)
+- [ ] [3. 프로그램과 프로세스, 스레드, PCB, Context Switching](https://roniruny.tistory.com/229?category=1034003)
+
+
+#### 네트워크
+- [ ] [인터넷 네트워크](https://roniruny.tistory.com/222)
+- [ ] [URI와 웹 브라우저 요청 흐름, HTTP](https://roniruny.tistory.com/239)
 
 
 #### Project
 - [ ] [캐치미 프로젝트에서 프로퍼티 옵저버 적용하기](https://roniruny.tistory.com/194)
+
